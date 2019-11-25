@@ -7,14 +7,14 @@
 		<dict>
 			<key>assets</key>
 			<array>
-				<dict>
+<!-- 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
 					<string>https://github.com/angryapes/ipadis/raw/master/image.57x57.png</string>
-				</dict>
+				</dict> -->
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
