@@ -21,12 +21,12 @@
 					<key>url</key>
 					<string>https://github.com/angryapes/ipadis/raw/master/hqq.ipa</string>
 				</dict>
-				<dict>
+<!-- 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
 					<string>https://github.com/angryapes/ipadis/raw/master/image.512x512.png</string>
-				</dict>
+				</dict> -->
 			</array>
 			<key>metadata</key>
 			<dict>
